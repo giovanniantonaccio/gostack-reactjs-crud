@@ -23,6 +23,13 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "description": "Receita da Mamma",
+      "image": "https://i0.statig.com.br/bancodeimagens/69/b2/my/69b2mydwu808ftj2k95ehggwd.jpg",
+      "name": "Spagetti",
+      "price": "19,90",
+      "id": 4
     }
   ]
 }
